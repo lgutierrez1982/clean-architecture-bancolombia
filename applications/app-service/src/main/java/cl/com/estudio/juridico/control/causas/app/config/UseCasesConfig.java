@@ -1,10 +1,5 @@
 package cl.com.estudio.juridico.control.causas.app.config;
 
-import cl.com.estudio.juridico.control.causas.app.model.causa.gateways.CausaRepository;
-import cl.com.estudio.juridico.control.causas.app.model.cliente.gateways.ClienteRepository;
-import cl.com.estudio.juridico.control.causas.app.usecase.causa.CausaUseCase;
-import cl.com.estudio.juridico.control.causas.app.usecase.cliente.ClienteUseCase;
-import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.FilterType;
